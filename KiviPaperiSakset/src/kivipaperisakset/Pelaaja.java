@@ -43,6 +43,10 @@ public class Pelaaja {
         return voitot;
     }
 
+
+    /**
+     * Metodi, joka lisää voiton.
+     */
     public void lisaaVoitto() {
         voitot++;
     }
